@@ -1,0 +1,2 @@
+MyGIF
+Tech Stack: Reactive Router A modern GIF browsing web application built using the Giphy API, featuring: Real-time GIF search functionality with trending GIFs on homepage Category-based browsing for smooth discovery GIF preview with detailed view and related GIF suggestions Users can like and add GIFs to favorites thorugh their local storage for later viewingResponsive, animated UI using Tailwind CSS with hover & transition effectsState and UI handled with React Hooks; routing with React Router.Efficient API integration with debounce and error handling
